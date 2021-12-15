@@ -20,11 +20,11 @@ public class PlayerImpl implements Player {
     @Override
     public void play(String videoPath, int width, int height) {
         log.info(videoPath);
-        String playScriptPath = projectPath + "\\src\\main\\python\\player\\player.py";
+        String playScriptPath = projectPath + "/src/main/python/player/player.py";
         log.info(playScriptPath);
         Long currTime = new Date().getTime();
         try {
-            Process p = Runtime.getRuntime().exec("python " + playScriptPath + " " + videoPath + " " + width + " " + height);
+            Process p = Runtime.getRuntime().exec("python3 " + playScriptPath + " " + videoPath + " " + width + " " + height);
             BufferedReader in = new BufferedReader(new InputStreamReader(p.getInputStream()));
             String ret = in.readLine();
             log.info("player result: {}", ret);

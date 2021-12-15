@@ -34,7 +34,7 @@ public class SocketClient extends WebSocketClient {
         log.info("Got message: " + message);
         byte[] video = Base64.getDecoder().decode(message);
         log.info("Got video from server: {} size", video.length);
-        String saveFileTo = projectDir + "\\playlist\\" +  UUID.randomUUID() + ".mp4";
+        String saveFileTo = projectDir + "/playlist/" +  UUID.randomUUID() + ".mp4";
         try {
             FileUtils.saveFile(video, saveFileTo);
             player.play(saveFileTo, 512, 267);
