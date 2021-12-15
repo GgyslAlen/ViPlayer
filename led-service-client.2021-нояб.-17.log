@@ -1,0 +1,53 @@
+2021-11-17 15:23:11.289 [WebSocketConnectReadThread-16] ERROR com.atmos.server.SocketClient 40 onError - java.net.ConnectException: Connection refused: connect
+2021-11-17 15:23:11.298 [WebSocketConnectReadThread-16] INFO  com.atmos.server.SocketClient 35 onClose - Connection closed: -1 Connection refused: connect
+2021-11-17 15:25:23.547 [WebSocketConnectReadThread-16] INFO  com.atmos.server.SocketClient 20 onOpen - Server connection open: org.java_websocket.handshake.HandshakeImpl1Server@5b133b4
+2021-11-17 15:25:23.552 [WebSocketConnectReadThread-16] INFO  com.atmos.server.SocketClient 25 onMessage - Got message: Test video!!!!
+2021-11-17 15:32:23.118 [WebSocketConnectReadThread-16] INFO  com.atmos.server.SocketClient 20 onOpen - Server connection open: org.java_websocket.handshake.HandshakeImpl1Server@65237be4
+2021-11-17 15:32:23.122 [WebSocketConnectReadThread-16] INFO  com.atmos.server.SocketClient 25 onMessage - Got message: Test video!!!!
+2021-11-17 15:32:52.799 [WebSocketConnectReadThread-16] INFO  com.atmos.server.SocketClient 25 onMessage - Got message: test
+2021-11-17 15:32:59.937 [WebSocketConnectReadThread-16] INFO  com.atmos.server.SocketClient 35 onClose - Connection closed: 1006 
+2021-11-17 15:51:30.038 [WebSocketConnectReadThread-16] INFO  com.atmos.server.SocketClient 24 onOpen - Server connection open: org.java_websocket.handshake.HandshakeImpl1Server@17a88ee9
+2021-11-17 15:51:30.042 [WebSocketConnectReadThread-16] INFO  com.atmos.server.SocketClient 29 onMessage - Got message: Test video!!!!
+2021-11-17 15:52:53.259 [WebSocketConnectReadThread-16] INFO  com.atmos.server.SocketClient 35 onMessage - Got video from server: 81854 size
+2021-11-17 15:53:45.874 [WebSocketConnectReadThread-16] INFO  com.atmos.server.SocketClient 24 onOpen - Server connection open: org.java_websocket.handshake.HandshakeImpl1Server@d03b715
+2021-11-17 15:53:45.878 [WebSocketConnectReadThread-16] INFO  com.atmos.server.SocketClient 29 onMessage - Got message: Test video!!!!
+2021-11-17 15:55:10.023 [WebSocketConnectReadThread-16] INFO  com.atmos.server.SocketClient 43 onClose - Connection closed: 1006 
+2021-11-17 15:55:26.675 [WebSocketConnectReadThread-16] INFO  com.atmos.server.SocketClient 24 onOpen - Server connection open: org.java_websocket.handshake.HandshakeImpl1Server@565556e2
+2021-11-17 15:55:26.679 [WebSocketConnectReadThread-16] INFO  com.atmos.server.SocketClient 29 onMessage - Got message: Test video!!!!
+2021-11-17 15:56:16.337 [WebSocketConnectReadThread-16] INFO  com.atmos.server.SocketClient 35 onMessage - Got video from server: 81854 size
+2021-11-17 15:56:16.501 [WebSocketConnectReadThread-16] INFO  com.atmos.server.SocketClient 37 onMessage - saving video to: C:\Users\USER\IdeaProjects\LEDCli15ae3539-e3f5-4432-8f66-53140e0b1ead.mp4
+2021-11-17 15:57:00.662 [WebSocketConnectReadThread-16] INFO  com.atmos.server.SocketClient 24 onOpen - Server connection open: org.java_websocket.handshake.HandshakeImpl1Server@79cdc519
+2021-11-17 15:57:00.667 [WebSocketConnectReadThread-16] INFO  com.atmos.server.SocketClient 29 onMessage - Got message: Test video!!!!
+2021-11-17 15:57:35.134 [WebSocketConnectReadThread-16] INFO  com.atmos.server.SocketClient 35 onMessage - Got video from server: 81854 size
+2021-11-17 15:57:35.312 [WebSocketConnectReadThread-16] INFO  com.atmos.server.SocketClient 37 onMessage - saving video to: C:\Users\USER\IdeaProjects\LEDCli/6e792272-3b7d-4c72-afd5-671ea31c3549.mp4
+2021-11-17 15:57:58.452 [WebSocketConnectReadThread-16] INFO  com.atmos.server.SocketClient 24 onOpen - Server connection open: org.java_websocket.handshake.HandshakeImpl1Server@1a64260d
+2021-11-17 15:57:58.456 [WebSocketConnectReadThread-16] INFO  com.atmos.server.SocketClient 29 onMessage - Got message: Test video!!!!
+2021-11-17 15:58:20.617 [WebSocketConnectReadThread-16] INFO  com.atmos.server.SocketClient 35 onMessage - Got video from server: 81854 size
+2021-11-17 15:58:20.823 [WebSocketConnectReadThread-16] INFO  com.atmos.server.SocketClient 37 onMessage - saving video to: C:\Users\USER\IdeaProjects\LEDCli\149ce727-bb3f-46b3-8cb2-7f0ef4fdd855.mp4
+2021-11-17 16:15:22.469 [WebSocketConnectReadThread-16] ERROR com.atmos.server.SocketClient 56 onError - java.net.ConnectException: Connection refused: connect
+2021-11-17 16:15:22.487 [WebSocketConnectReadThread-16] INFO  com.atmos.server.SocketClient 51 onClose - Connection closed: -1 Connection refused: connect
+2021-11-17 16:15:40.922 [WebSocketConnectReadThread-16] INFO  com.atmos.server.SocketClient 28 onOpen - Server connection open: org.java_websocket.handshake.HandshakeImpl1Server@6082c1c6
+2021-11-17 16:15:40.927 [WebSocketConnectReadThread-16] INFO  com.atmos.server.SocketClient 33 onMessage - Got message: Test video!!!!
+2021-11-17 16:16:12.430 [WebSocketConnectReadThread-16] INFO  com.atmos.server.SocketClient 39 onMessage - Got video from server: 81854 size
+2021-11-17 16:16:12.594 [WebSocketConnectReadThread-16] INFO  com.atmos.server.SocketClient 41 onMessage - saving video to: C:\Users\USER\IdeaProjects\LEDCli\df4cdfea-9380-49e3-ba74-2ce0b25f2eaa.mp4
+2021-11-17 16:18:05.189 [WebSocketConnectReadThread-16] INFO  com.atmos.server.SocketClient 28 onOpen - Server connection open: org.java_websocket.handshake.HandshakeImpl1Server@560b2b65
+2021-11-17 16:18:05.193 [WebSocketConnectReadThread-16] INFO  com.atmos.server.SocketClient 33 onMessage - Got message: Test video!!!!
+2021-11-17 16:18:33.790 [WebSocketConnectReadThread-16] INFO  com.atmos.server.SocketClient 39 onMessage - Got video from server: 81854 size
+2021-11-17 16:18:33.976 [WebSocketConnectReadThread-16] INFO  com.atmos.server.SocketClient 41 onMessage - saving video to: C:\Users\USER\IdeaProjects\LEDCli\f6804008-8ded-4dac-88b3-7a26513a4217.mp4
+2021-11-17 16:19:25.707 [WebSocketConnectReadThread-16] INFO  com.atmos.server.SocketClient 28 onOpen - Server connection open: org.java_websocket.handshake.HandshakeImpl1Server@ea48e43
+2021-11-17 16:19:25.711 [WebSocketConnectReadThread-16] INFO  com.atmos.server.SocketClient 33 onMessage - Got message: Test video!!!!
+2021-11-17 16:20:02.654 [WebSocketConnectReadThread-16] INFO  com.atmos.server.SocketClient 39 onMessage - Got video from server: 81854 size
+2021-11-17 16:20:02.793 [WebSocketConnectReadThread-16] INFO  com.atmos.server.SocketClient 41 onMessage - saving video to: C:\Users\USER\IdeaProjects\LEDCli\ac763eb0-835a-4d10-abff-542bab910a5e.mp4
+2021-11-17 16:22:27.444 [WebSocketConnectReadThread-16] INFO  com.atmos.server.SocketClient 28 onOpen - Server connection open: org.java_websocket.handshake.HandshakeImpl1Server@7e4878ed
+2021-11-17 16:22:27.448 [WebSocketConnectReadThread-16] INFO  com.atmos.server.SocketClient 33 onMessage - Got message: Test video!!!!
+2021-11-17 16:22:51.353 [WebSocketConnectReadThread-16] INFO  com.atmos.server.SocketClient 39 onMessage - Got video from server: 81854 size
+2021-11-17 16:22:51.554 [WebSocketConnectReadThread-16] INFO  com.atmos.server.SocketClient 41 onMessage - saving video to: C:\Users\USER\IdeaProjects\LEDCli\0ac971bd-6921-43a1-be4f-396589a3319e.mp4
+2021-11-17 16:56:22.534 [WebSocketConnectReadThread-16] INFO  com.atmos.server.SocketClient 28 onOpen - Server connection open: org.java_websocket.handshake.HandshakeImpl1Server@7e4878ed
+2021-11-17 16:56:22.539 [WebSocketConnectReadThread-16] INFO  com.atmos.server.SocketClient 33 onMessage - Got message: Test video!!!!
+2021-11-17 16:56:58.805 [WebSocketConnectReadThread-16] INFO  com.atmos.server.SocketClient 39 onMessage - Got video from server: 81854 size
+2021-11-17 16:56:58.943 [WebSocketConnectReadThread-16] INFO  com.atmos.server.SocketClient 41 onMessage - saving video to: C:\Users\USER\IdeaProjects\LEDCli\3f2fa9df-f44b-4b95-8360-b43622f9f4f9.mp4
+2021-11-17 17:01:58.313 [WebSocketConnectReadThread-16] INFO  com.atmos.server.SocketClient 28 onOpen - Server connection open: org.java_websocket.handshake.HandshakeImpl1Server@4c65e80b
+2021-11-17 17:01:58.318 [WebSocketConnectReadThread-16] INFO  com.atmos.server.SocketClient 33 onMessage - Got message: Test video!!!!
+2021-11-17 17:02:28.848 [WebSocketConnectReadThread-16] INFO  com.atmos.server.SocketClient 39 onMessage - Got video from server: 81854 size
+2021-11-17 17:02:29.018 [WebSocketConnectReadThread-16] INFO  com.atmos.server.SocketClient 41 onMessage - saving video to: C:\Users\USER\IdeaProjects\LEDCli\d3837f36-96fd-4fd5-809b-d374e0f70030.mp4
+2021-11-17 17:34:55.655 [WebSocketConnectReadThread-16] INFO  com.atmos.server.SocketClient 51 onClose - Connection closed: 1006 
